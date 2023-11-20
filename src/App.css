@@ -1,0 +1,52 @@
+body{
+  background-color: #000 !important;
+}
+.m-container{
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+ 
+}
+.vid{
+  width: 100%;
+  /* object-fit: cover; */
+  /* height: 280px;
+  margin-top: 80px; */
+}
+.add{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.nav-link{
+  color: white;
+}
+
+
+.s-rating{
+  margin-left: 750px;
+}
+
+.m-trailer-card{
+  width: 500px;
+  height: 600px;
+  border-radius: 4px;
+  background-color: #F2F2EB;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+.t-card-container{
+  display: flex;
+  justify-content: center;
+}
+.m-trailer-img{
+  width: 500px;
+  height: 450px;
+}
+.abt{color: white;}
